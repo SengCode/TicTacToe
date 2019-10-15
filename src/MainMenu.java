@@ -36,7 +36,7 @@ public class MainMenu {
 			stage.show();
 		} catch(Exception e) 
 		{
-			System.out.println("There was an unknown error!");
+			System.out.println("Error Loading Class MainMenu!");
 		}
 	}
 
