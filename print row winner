@@ -1,0 +1,6 @@
+    public void printRowWinner() {
+    	if(textField1.getText().equals("X")) 
+    		WinnerXSlide();
+    	else WinnerOSlide();
+    	
+    }
